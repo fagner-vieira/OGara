@@ -177,12 +177,12 @@
 			<div class="col-lg-3">
 				<img src="images/icon01.png" class="center-block img-responsive" alt="">
 				<p class="textIconOne">qualidade</p>
-				<p class="textIconTwo">mais de 5.400 Projetos<br/>realizados</p>
+				<p class="textIconTwo">mão de obra e materiais de<br/>alta qualidade</p>
 			</div>
 			<div class="col-lg-3">
 				<img src="images/icon02.png" class="center-block img-responsive" alt="">
-				<p class="textIconOne">Excelência</p>
-				<p class="textIconTwo">Pontualidade e<br/>montagem perfeita</p>
+				<p class="textIconOne">facilidade</p>
+				<p class="textIconTwo">diversas Opções de <br/>pagamento</p>
 			</div>
 			<div class="col-lg-3">
 				<img src="images/icon03.png" class="center-block img-responsive" alt="">
@@ -198,29 +198,11 @@
 	</div>
 </section>
 
-<section class="container-fluid backGround">
+<section class="container-fluid backGroundB">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-10 col-lg-offset-1">
-				<div class="row spaceThree">
-					<div class="col-lg-12">
-						<h2>Onde estamos</h2>
-					</div>
-				</div>
-				<div class="row spaceThree">
-					<div class="col-lg-6">
-						<img src="images/loja01.png" class="img-responsive center-block" alt="">
-						<p class="loja">Loja 1</p>
-						<p><img src="images/lineOne.png" class="center-block" alt=""></p>
-						<p class="lojaB">RUA FELÍCIO LAURITO, 26<br/>CENTRO - CEP 09725-620<br/>SÃO BERNARDO DO CAMPO - SP<br/>TEL. (11) 4330-5153</p>
-					</div>
-					<div class="col-lg-6">
-						<img src="images/loja02.png" class="img-responsive center-block" alt="">
-						<p class="loja">Loja 2</p>
-						<p><img src="images/lineOne.png" class="center-block" alt=""></p>
-						<p class="lojaB">RUA JURUBATUBA, 396<br/>CENTRO - CEP 09725-620<br/>SÃO BERNARDO DO CAMPO - SP<br/>TEL. (11) 4332-6680</p>
-					</div>
-				</div>									
+			<div class="col-lg-12 ">
+				<h5>www.OGARA.com.br</h5>
 			</div>										
 		</div>											
 	</div>
