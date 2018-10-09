@@ -217,7 +217,7 @@ h5{
 	.textThree{
 		text-align: center;
 		font-size: 0.9em;
-		margin-top: 1px;
+		margin-top: -20px;
 	}
 	.spaceTwo {
 		margin-top: 2%;
@@ -230,7 +230,8 @@ h5{
 		margin-top: -70px;
 	}
 	header.container-fluid{
-		background-position-y: -150px;
+		background-position: 76%;
+		background-position-y: -436px;
 	}
 	.spaceMobOne{
 		margin-top: 50px;
