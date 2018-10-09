@@ -108,39 +108,28 @@
 	</div>
 </header>
 
-<section class="container-fluid">
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-10 col-lg-offset-1 hidden-xs hidden-sm">
-				<p class="textSix">Sofa • Mesa de Jantar • Mesa de centro • rack • home theather</p>								
-			</div>	
-			<div class="col-xs-12 hidden-lg hidden-md spaceMobOne">
-				<p class="textSix">• Sofa •<br/>• Mesa de Jantar •<br/>• Mesa de centro •<br/>• rack •<br/>• home theather</p>								
-			</div>									
-		</div>											
-	</div>
-</section>
+<!-- Bloco 2 -->
 
-<section class="container-fluid backGround">
+<section class="container-fluid">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-10 col-lg-offset-1">
 				<div class="row spaceThree">
 					<div class="col-lg-6 hidden-xs hidden-sm">
-						<p class="textSeven">Você vai se surpreender<br/>com o resultado!</p>
+						<p class="textSeven">Porque escolher a<br/>O'Gara-Hess</p>
 						<p><img src="images/lineOne.png" alt=""></p>
-						<p class="textEight">A Privilégios têm soluções de design incríveis para deixar a sua casa ou o seu apartamento do jeito que você sonha! Móveis e Design sob medida para os seus ambientes e estilo de vida, com aproveitamento inteligente de espaços, materiais da melhor qualidade e acabamentos que são referência no mercado.</p>
+						<p class="textEight">Possuidora de um DNA puro sangue O'Gara-Hess & Eisenhardt, sempre se destacando entre os primeiros no mundo. Foi a primeira blindadora brasileira a conquistar o ISO 9002, destacando-se em segurança móvel, civil, e militar para clientes do mundo inteiro, inclusive governos e todas suas autarquias.</p>
 					</div>
 					<div class="col-lg-6 hidden-xs hidden-sm">
 						<img src="images/img01.png"  class="center-block img-responsive" alt="">
 					</div>
 					<div class="col-lg-6 hidden-lg hidden-md">
-						<p class="textSeven">Você vai se surpreender<br/>com o resultado!</p>
+						<p class="textSeven">Porque escolher a<br/>O'Gara-Hess</p>
 						<img src="images/img01.png"  class="center-block img-responsive" alt="">
 					</div>
 					<div class="col-lg-6 hidden-lg hidden-md">
 						<p><img src="images/lineOne.png" alt=""></p>
-						<p class="textEight">A Privilégios têm soluções de design incríveis para deixar a sua casa ou o seu apartamento do jeito que você sonha! Móveis e Design sob medida para os seus ambientes e estilo de vida, com aproveitamento inteligente de espaços, materiais da melhor qualidade e acabamentos que são referência no mercado.</p>
+						<p class="textEight">Possuidora de um DNA puro sangue O'Gara-Hess & Eisenhardt, sempre se destacando entre os primeiros no mundo. Foi a primeira blindadora brasileira a conquistar o ISO 9002, destacando-se em segurança móvel, civil, e militar para clientes do mundo inteiro, inclusive governos e todas suas autarquias.</p>
 					</div>
 				</div>								
 			</div>										
@@ -148,32 +137,9 @@
 	</div>
 </section>
 
-<section class="container-fluid">
-	<div class="container spaceThree">
-		<div class="row">
-			<div class="col-lg-4 spaceZero">
-				<img src="images/img02.png" class="center-block img-responsive" alt="">
-			</div>
-			<div class="col-lg-4 spaceZero">
-				<img src="images/img03.png" class="center-block img-responsive" alt="">
-			</div>
-			<div class="col-lg-4 spaceZero">
-				<img src="images/img04.png" class="center-block img-responsive" alt="">
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-lg-4 spaceZero">
-				<img src="images/img05.png" class="center-block img-responsive" alt="">
-			</div>
-			<div class="col-lg-4 spaceZero">
-				<img src="images/img06.png" class="center-block img-responsive" alt="">
-			</div>
-			<div class="col-lg-4 spaceZero">
-				<img src="images/img07.png" class="center-block img-responsive" alt="">
-			</div>
-		</div>
-	</div>
-</section>
+<!-- Bloco 2  Fim -->
+
+<!-- Bloco 3 -->
 
 <section class="container-fluid backGround">
 	<div class="container">
@@ -184,17 +150,17 @@
 						<img src="images/img08.png"  class="center-block img-responsive" alt="">
 					</div>
 					<div class="col-lg-6">
-						<p class="textSeven">Somos referência<br/>no mercado!</p>
+						<p class="textSeven">Há mais de 120 anos <br/> no mercado</p>
 						<div class="row">
 							<div class="col-lg-1 col-xs-2">
 								<img src="images/lineTwo.png" class="img-responsive center-block" alt="">
 							</div>
 							<div class="col-lg-11 col-xs-10">
-								<p class="textnine">Há mais de 15 anos atuando no<br/>ramo de móveis.</p>
+								<p class="textnine">Desenvolvendo as melhores soluções de blindagem</p>
 							</div>
 							
 						</div>
-						<p class="textEight">Temos compromisso com o seu produto e com a sua satisfação, por isso, realizamos projetos personalizados, baseados na necessidade de cada cliente prezando sua satisfação com total transparência em todas as etapas de produção do seu ambiente.</p>
+						<p class="textEight">Com uma enorme quantidade de clientes, nossa a unidade é referencia pelo maior numero de veículos blindados ao longo destas ultimas décadas. A O'Gara Blindados tem a solução em blindagem e sua manutenção mais adequada à realidade de cada região específica.</p>
 					</div>
 					
 				</div>								
@@ -202,6 +168,8 @@
 		</div>											
 	</div>
 </section>
+
+<!-- Bloco 3 Fim -->
 
 <section class="container-fluid">
 	<div class="container spaceThree">
