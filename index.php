@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Privilégios Móveis &amp; Design</title>
+<title>O'Gara Blindados</title>
 
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -28,8 +28,8 @@
 		</div>
 		<div class="row">
 			<div class="col-lg-8 col-lg-offset-2">
-				<p class="textOne">móveis &amp; design</p>
-				<p class="textTwo">melhor preço do mercado</p>
+				<p class="textOne">Garanta sua blindagem</p>
+				<p class="textTwo">Desconto de 15% + Bônus de R$ 2000,00</p>
 			</div>
 		</div>
 		<div class="row"> 
@@ -38,12 +38,15 @@
 					<div class="col-lg-7">
 						<div class="row spaceTwo">
 							<div class="col-lg-offset-2 col-lg-10">
-								<p class="textThree col-lg-8">Soluções de design incríveis</p>
-								<p class="textThree col-lg-10">Materiais de primeira linha</p>
-								<p class="textThree col-lg-12">Aproveitamento inteligente de espaços</p>
+								<p class="textThree col-lg-8"><span class="dotGreen">•</span> Certificado ISO 9002</p>
+								<p class="textThree col-lg-10"><span class="dotGreen">•</span> Mais de 120 anos de experiência</p>
+								<p class="textThree col-lg-12"><span class="dotGreen">•</span> As melhores soluções de blindagem </p>
 							</div>
 						</div>
 						<div class="row spaceTwo">
+						<div class="col-lg-10 col-lg-offset-2">
+								<img src="images/cars.png" class="img-responsive center-block" alt="">
+							</div>
 							<div class="imgA col-lg-10 col-lg-offset-2 hidden-xs hidden-sm">
 								<img src="images/promo.png" class="img-responsive center-block" alt="">
 							</div>
@@ -53,8 +56,10 @@
 						</div>
 					</div>
 					<div class="colStyle col-lg-4 col-lg-offset-0">
-						<p class="textFour">Preencha agora<br/>e garanta seu</p>
-						<p class="textFive">Desconto</p>
+						<p class="textFour">Preencha agora<br/>e garanta</p>
+						<p class="textFive">Bônus</p>
+						<p class="textFiveB">R$2.000,00<span class="asterix">*</span></p>
+						<p class="textFiveC">*Para indicação de 1 amigo.</p>
 						<p><form class="form-horizontal" name="form-gohotsale" id="form-gohotsale" method="POST" action="https://gohotsale.com.br/leads" novalidate>
 												<input type="hidden" name="hotsite" id="hotsite" value="casa-toda-favorita-hotpage">
 												<input type="hidden" name="company" id="company" value="favorita-mov-decor">

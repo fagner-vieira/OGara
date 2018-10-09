@@ -1,10 +1,10 @@
 @charset "UTF-8";
 /* CSS Document */
 
-@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,700,900');
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,700,900');
 
 body{
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Raleway', sans-serif;
 }
 
 header.container-fluid{
@@ -27,25 +27,29 @@ header.container-fluid{
 	color: #fff;
 	text-align: center;
 	margin-top: 1%;
-	font-size: 3.0em;
+	font-size: 2.5em;
 	border-radius: 5px;
-	background-color: #c6a565;
+	background-color: #006a58;
 }
 
 .spaceOne{
 	margin-top: 3%;
 }
 
+.dotGreen{
+	color: #006a58;
+    font-size: 1.8em;
+    position: relative;
+    top: 5px;
+}
+
 .textThree{
 	text-transform: uppercase;
 	color: #fff;
 	text-align: left;
-	margin-top: 3%;
-	font-size: 1.1em;
+	margin-top: -5%;
+	font-size: 1.3em;
 	border-radius: 5px;
-	background-color: rgba(0, 0, 0, 0.6);
-    background: rgba(0, 0, 0, 0.6);
-	padding: 3% 0 3% 3%;
 }
 
 .colStyle{
@@ -73,8 +77,27 @@ header.container-fluid{
 	text-transform: uppercase;
 	text-align: center;
 	margin-top: -15px;
-	margin-bottom: 15%;
 }
+.textFiveB{
+	color: #c6a565;
+	font-size: 2.5em;
+	font-weight: 700;
+	text-transform: uppercase;
+	text-align: center;
+	margin-top: -30px;
+}
+.asterix{
+	color: #838383;
+}
+
+.textFiveC{
+    color: #838383;
+    text-align: center;
+    font-size: 1.1em;
+    line-height: 20px;
+    margin-top: -5%;
+}
+
 .imgA{
 	position: relative;
 	z-index: 10;
@@ -82,11 +105,11 @@ header.container-fluid{
 }
 
 .spaceTwo{
-	margin-top: 8%;
+	margin-top: 2%;
 }
 
 .hotEnviar{
-	background-color: #630fab;
+	background-color: #005aff;
     color: #fff;
     padding: 5% 12%;
     border-radius: 20px;
