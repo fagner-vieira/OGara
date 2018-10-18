@@ -16,6 +16,35 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
+	
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-127213633-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-127213633-1');
+  gtag('config', 'AW-783629894');
+</script>
+
+<!-- Event snippet for Lead conversion page
+In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
+<script>
+function gtag_report_conversion(url) {
+  var callback = function () {
+    if (typeof(url) != 'undefined') {
+      window.location = url;
+    }
+  };
+  gtag('event', 'conversion', {
+      'send_to': 'AW-783629894/kENoCNOLl4sBEMb81PUC',
+      'event_callback': callback
+  });
+  return false;
+}
+</script>
+
 </head>
 <body> 
 
@@ -61,8 +90,8 @@
 						<p class="textFiveB">R$2.000,00<span class="asterix">*</span></p>
 						<p class="textFiveC">*Para indicação de 1 amigo.</p>
 						<p><form class="form-horizontal" name="form-gohotsale" id="form-gohotsale" method="POST" action="https://gohotsale.com.br/leads" novalidate>
-												<input type="hidden" name="hotsite" id="hotsite" value="casa-toda-favorita-hotpage">
-												<input type="hidden" name="company" id="company" value="favorita-mov-decor">
+												<input type="hidden" name="hotsite" id="hotsite" value="ogara-blindados-hotsite">
+												<input type="hidden" name="company" id="company" value="ogara-blindados">
 												<fieldset class="col-md-12">
 												<?php if(isset($_GET['error']) && $_GET['error'] === 'profanity') { ?>
 												<div class="alert alert-danger" role="alert"> <span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span> <span class="sr-only">Erro:</span> Seja mais educado! </div>
@@ -213,5 +242,23 @@
 
 <!-- Include all compiled plugins (below), or include individual files as needed --> 
 <script src="js/bootstrap.js"></script>
+	
+<script src="https://gohotsale.com.br/gohotsale.js"></script>
+
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+
+<script type="text/javascript">
+	if (window.location.href.indexOf('?message=') > 0) {
+		swal({
+		  title: "Sucesso",
+		  text: "Recebemos sua mensagem, entraremos em contato o mais breve possível.",
+		  icon: "success",
+		  button: "Fechar",
+		});
+	}
+</script>
+
+<div id="go-hot-chat-container"></div><script>$(function(){$("#go-hot-chat-container").load("https://gohotsale.com.br/chatbox/38/ogara-blindados/ogara-blindados-hotsite");});</script>
+
 </body>
 </html>
